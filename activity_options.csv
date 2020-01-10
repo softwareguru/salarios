@@ -1,0 +1,24 @@
+key,name
+dba,Administración de bases de datos
+req,Análisis de requerimientos
+arq,Arquitectura y diseño de sistemas
+bi,Business Intelligence
+cap,Capacitación y evangelización
+dsc,Ciencia de datos
+devops,"Gestión de infraestructura (SysOps, DevOps)"
+deng,Ingeniería de datos
+spi,Coaching y mejora de procesos
+cons,Consultoría de negocio
+dir,Dirección / Estrategia
+doc,Docencia
+uxd,User Experience Design
+erp,Implantación de sistemas empresariales (ERPs y similar)
+prog,"Programación back-end (procesamiento, lógica, datos)"
+front,Programación front-end
+pm,Project management / Coordinación
+techsales,Preventa / Tech sales
+infosec,Seguridad de información
+soporte,Soporte técnico
+test,Testing
+ventas,Venta y desarrollo de negocios
+techwrite,Documentación / Technical writing
